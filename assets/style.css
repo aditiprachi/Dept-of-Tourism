@@ -175,4 +175,10 @@ footer .nav{
   .nav-link{
     font-size: 1em;
   }
+  .j{
+    font-size: 3.5em;
+    top: 15%;
+    text-align: right;
+    padding-right: 0.5em;
+  }
 }
